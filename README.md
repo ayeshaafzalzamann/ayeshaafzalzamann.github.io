@@ -316,13 +316,13 @@ transform: scale(.9);
 
 
 //var swiper = new Swiper(".book-slider", {
-  //  loop:true,
-    //centeredSlides : true,
-    //autoplay:{
-      //  delay:9500,
-        //disableOnInteraction:false,
-    //},
-    /*breakpoints: {
+   loop:true,
+    centeredSlides : true,
+    autoplay:{
+        delay:9500,
+        disableOnInteraction:false,
+    },
+    breakpoints: {
       0: {
         slidesPerView: 1,
         
@@ -340,4 +340,4 @@ transform: scale(.9);
        
       },
     },
-  });*/
+  });
