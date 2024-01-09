@@ -308,7 +308,7 @@ background-color: rgb(255, 158, 187);
 
 
 .swiper {
-    width: 100%;
+    width: 90%;
     padding-top: 20px;
     padding-bottom: 20px;
   }
@@ -322,7 +322,8 @@ background-color: rgb(255, 158, 187);
 
   .swiper-slide img {
     display: block;
-    width: 70%;
+    width: 90%;
+    height: 60%;
   }
 
 .icons-container{
