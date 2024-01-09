@@ -308,7 +308,7 @@ background-color: rgb(255, 158, 187);
 
 
 .swiper {
-    width: 60%;
+    width: 100%;
     padding-top: 20px;
     padding-bottom: 20px;
   }
@@ -355,8 +355,8 @@ background-color: rgb(255, 158, 187);
 }
 
 .feature .featured-slider .box{
-    width: 25rem;
-    margin: 2rem 0;
+    width: 20rem;
+    margin: 3rem 0;
     position: relative;
     overflow: hidden;
     border: .1px solid #14141470 ;
